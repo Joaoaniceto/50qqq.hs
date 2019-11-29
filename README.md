@@ -1,1 +1,1 @@
-# 50qqq.hs
+# 50 Questões Haskell programção Funcional
