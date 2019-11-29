@@ -1,1 +1,1 @@
-# 50 Questões Haskell programção Funcional
+# 50 Questões Haskell programação Funcional
